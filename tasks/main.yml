@@ -1,0 +1,4 @@
+  tasks:
+  - name: Install Visual Studio Code NET Extensions
+    shell: |
+      code --install-extension doggy8088.netcore-extension-pack
