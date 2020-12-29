@@ -1,4 +1,4 @@
 dependencies:
   - src: https://github.com/codegecko/Ansible.Roles.VSCode
-  - scm: git
-  - name: Visual Studio Code
+    scm: git
+    name: Visual Studio Code
